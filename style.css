@@ -86,8 +86,8 @@ html, body {
 	}
 
 	.content-container p {
-		font-size: 14px;
-		max-width: 90%;
+		font-size: 13px;
+		max-width: 100%;
 	}
 }
 
